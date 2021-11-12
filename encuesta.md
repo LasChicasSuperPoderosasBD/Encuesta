@@ -1,88 +1,109 @@
-# Proyecto final 
+# Propuesta de encuesta sobre ciberseguridad
 
-Descripción (Que está en Github):
-SocialTIC busca construir un sistema de encuestas que permita conocer la percepción de ciberseguridad entre estudiantes de licenciatura. Dicho sistema debe recoger respuestas en temas como 1) privacidad, 2) seguridad e integridad física y psicológica, 3) redes sociales, 4) vigilancia, 5) balance entre otorgar datos VS seguridad y protección civil.
+## Equipo: Chicas Superpoderosas
+Francisco Cordero Ronquillo
+Juan Pablo Macías Watson
+Miguel Angel Quintero Villegas
+Sara Visoso Gunther
 
-0. Rango de edad y nivel de estudios.
+Consideramos como guía en todos nuestros temas lo siguiente:
+Perfil del encuestado
+Usos y necesidades
+Seguridad y privacidad
+Agresiones, ataques digitales
 
-1. Privacidad
-¿Usas redes públicas constantemente? (restaurantes, parques, escuelas, gimnasios, etc.)
--> dar seguimiento.
-¿Sueles leer los avisos de privacidad o términos y condiciones de páginas a las que otorgas tus datos personales?
-¿Lees las actualizaciones a dichas políticas de privacidad?
-¿Sabes lo que es la Ley Federal de Protección de Datos Personales? 
-¿Usas algún servicio de nube? (iCloud, Drive, Dropbox, etc.)
-¿Qué tan seguros piensas que están los datos en tu nube?
-¿Cada vez que entras a una página de internet aceptas las cookies sin leer la información sobre ellas? 
-¿Qué crees que venden  empresas como amazon? (productos/ información / ambas / series chidas)
-
-2. Seguridad e integridad física y psicológica
-¿Usas la misma contraseña para todo? -> En caso de que sí: ¿cuál es?
-¿Cambias tus contraseñas frecuentemente? 
-¿Otras personas conocen tus contraseñas? refrasear
-¿Conoces lo que es el certificado SSL de una página? -> En caso de que sí: ¿qué tan seguido lo revisas?
-¿Has caído alguna vez en una estafa por internet?
-¿Has infectado por equivocación tus dispositivos con malware? refrasear
-¿Eres consciente de que las redes sociales pueden usarse para radicalizar a sus usuarios?
-¿Sueles salir enojado después de usar redes como Facebook o Twitter? refrasear
-¿Has escuchado alguna de estas situaciones? Cambridge Analítica 2018,  PRISM y XKeyScore 2013 ...
-
-3. Redes sociales
-¿Cuánto tiempo pasas en internet al día?
-¿Cuáles de estas redes sociales usas? WhatsApp. Twitter. Facebook. Instagram. Spotify. Telegram. TikTok. Club Penguin.
-¿Cuáles de estos servicios de streaming usas? Twitch. YouTube. Netflix. Amazon Prime. Disney+. ClaroVideo. 
-En tus redes sociales ¿tus perfiles y publicaciones son públicos o privados?
-¿Conoces las configuraciones de privacidad que existen en las redes sociales que usas?
-¿Qué es lo que más valoras de tus redes sociales? Entretenimiento. Reconocimiento (fama). Conexión con amigos. Que tomen tus datos  Pensar en otras opciones.
-¿Conoces a alguien que haya sufrido robo de identidad en redes sociales?
-¿Sueles interactuar con desconocidos cuando usas internet?
-¿Has usado algún servicio de citas online? (Tinder, Bumble, Grindr, etc.)
-¿Hablas con desconocidos en redes sociales?
-¿El contenido de las redes sociales afecta tu salud emocional?
-¿Cada vez que agregas un perfil nuevo te aseguras de que sea confiable? 
-¿Te has encontrado con alguna persona que conociste en internet?
-¿Tomas precauciones cuando te encuentras en persona con alguien que conociste en internet?
-¿Sabes reconocer perfiles oficiales de marcas y empresas? (no ser víctima de phishing). refrasear
-¿Conoces protocolos en caso de caer en estafas por internet?
-
-4. Vigilancia
-¿Sueles mantener activada la “ubicación” en tus dispositivos?
-¿Sueles tener la cámara de tu computadora abierta?
-¿La publicidad que te aparece en internet suele coincidir con tus gustos?
-¿Has escuchado hablar sobre el malware Pegasus?
-¿Crees que el internet es útil para recuperar información sobre un posible empleado y así tener una mejor idea de su carácter o consideras que esto es una violación de su privacidad? refrasear interesante
-¿Utilizas aplicaciones en las que puedes ver la ubicación de tus amigos y familiares para asegurar su seguridad? Si la respuesta es sí, ¿temes que la información pudiera caer en las manos equivocadas?
-¿Tienes un celular con reconocimiento facial o dactilar? -> ¿Sabes si esa información está protegida?
-
-5. Balance entre otorgar datos VS seguridad y protección civil
-¿Valoras más la privacidad o la eficiencia y funcionalidad? Privacidad. Eficiencia. Intento encontrar un balance entre ambos.
-Al ingresar tu dirección en distintas páginas de internet ¿Te preguntas si es seguro?
-¿Utilizas algún servicio como paypal para proteger tu información financiera? 
-¿Verificas que una página de internet sea segura antes de ingresar la información de tu tarjeta de crédito? 
-¿Crees que tu dirección o información sobre donde vives es información sensible para poner en internet?
-
-6. Extra
-Sientes que tu actitud ante las cuestiones de ciberseguridad es: 
-- Resignada (aceptas lo que te ofrece la tecnología porque te facilita la vida, aún sabiendo que existen riesgos con los que no estás cómodo). 
-- Activa (Buscas encontrar la manera más segura de navegar por la web). 
-- Mixta. 
-Indiferente (no te importan estas cuestiones, sólo quieres usar el internet).
-¿Qué tan cómodo te sentiste respondiendo esta encuesta?
-Sueles compartir tus datos personales a: 
-- Absolutamente nadie. 
-- Personas cercanas que conozco. 
-- Cualquier conocido. 
-- Cualquier sitio que me ofrezca algo a cambio de ellos (refrasear).
+## Objetivo:
+Entender los mitos sobre ciberseguridad populares entre los jóvenes universitarios en el rango de edad de entre 18 a 24 años. E investigar cómo cambian dependiendo del perfil del sujeto entrevistado.
+Los mitos sobre los cuales queremos investigar son los que tienen que ver con los temas de: redes sociales y compras en línea. Tomando en cuenta las siguientes guías:
+Usos y necesidades: para qué se usan las tecnologías en cuestión (redes sociales y compras en línea.
+Seguridad y privacidad: control de acceso a la información del usuario.
+Agresiones y ataques digitales: posibles riesgos a los que se exponen al usar dichas tecnologías. 
 
 
-Para saber más sobre ciberseguridad, puedes consultar nuestra página, nuestras referencias y a SocialTIC quienes están empeñados en difundir los conocimientos necesarios para una vida digital más segura.
+## Investigación:
+Conceptos clave:
 
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf 
+Usos y necesidades: Aspectos de la vida en las que se usan las tecnologías y objetivos con los que se ocupan.
+Ciberseguridad: Práctica de defender las computadoras, los servidores, los dispositivos móviles, los sistemas electrónicos, las redes y los datos de ataques maliciosos.
+Vigilancia: Interacción digital donde se toman datos de una persona sin su consentimiento explícito. 
+Privacidad: Ámbito de la vida privada que se tiene derecho a proteger de toda intromisión.
+Redes sociales: Servicio que permite a los individuos construir un perfil público o semipúblico dentro de un sistema delimitado, articular una lista de otros usuarios con los que comparten una conexión 
+Tiendas virtuales: Es un tipo de comercio que utiliza internet como medio para vender productos. 
+Ataques digitales:  Un ataque digital es cualquier acción o comportamiento con objetivos malos mediante el uso de las tecnologías de la información y comunicación.
+
+Nuestra investigación busca entender el funcionamiento de los mecanismos de redes sociales y tiendas virtuales para poder generar preguntas pertinentes sobre su uso, peligros y seguridad a los encuestados. Además de obtener información sobre mitos generalizados sobre cómo se relacionan la ciberseguridad y nuestro demográfico esperado.
+
+lluvia de ideas:
+leyes de protección de datos 
+Redes sociales más utilizadas- coincidencias de redes 
+Vigilancia virtual empresarial (gubernamental igual)
+Amazon echo- casos de vendedores que utilizan información de compradores
+medidas biométricas 
+Riesgos de información financiera
+Servicios de protección financiera como paypal 
+uso de información para publicidad personalizada 
+
+## Estructura de la encuesta:
+La encuesta se va a dividir en 4 partes. La primera de estas partes será el perfil general del encuestado en la que recopilaremos información básica sobre el sujeto como su rango de edad, género y  conocimientos generales sobre ciberseguridad. La segunda parte contendrá preguntas acerca de redes sociales. La siguiente sobre compras en línea. Y por último la sección de preguntas de conclusión 
+
+La estructura de la encuesta está representada por el siguiente diagrama: 
+1. Perfil general 
+Rango de edad
+Nivel de estudios/ carrera 
+Género 
+Conocimientos sobre ciberseguridad
+Contraseñas
+Compartir datos personales
+Políticas de manejo de datos 
+Uso de tecnología 
+Acceso a la tecnología 
+2. Redes sociales:
+Cuales usa
+Frecuencia de uso
+Objetivo de uso
+Perfiles públicos o privados 
+Tipo de información compartida
+Efectos en la vida diaria (acotarlo)
+Forma de interactuar (precauciones)
+Peligros comunes al usar redes sociales
+Limites éticos de uso 
+3. Compras en línea:
+Tipos de compras en línea
+Frecuencia de uso
+Administración de información financiera
+Servicios de protección de información financiera (ej: paypal)
+Datos que obtienen sitios de compras en línea
+Publicidad basada en compras
+Experiencias negativas
+4. Conclusión:
+Eficiencia contra funcionalidad
+Implicaciones éticas
+Autoevaluación de actitudes frente a la ciberseguridad
+
+Al finalizar la encuesta, los encuestados podrán acceder a la investigación que hemos realizado para informarse más al respecto de la ciberseguridad, además de acceder a nuestras fuentes y referencias.
+
+
+## Propuesta de Análisis:
+Estudiaremos el comportamiento y conocimiento que tienen los encuestados sobre la ciberseguridad y cómo varía dependiendo de su perfil. Buscamos patrones entre personas con el mismo perfil para luego extraer información no solamente sobre universitarios, sino sobre subgrupos; esto nos servirá para poder brindar conclusiones más acertadas sobre los datos obtenidos.
+
+Nuestras conclusiones sobre los datos analizados se publicarán en un tablero en la misma página en la que se encuentre la encuesta y la investigación que hemos realizado para que sean visibles a todo público interesado.
+
+## Referencias:
+https://latam.kaspersky.com/resource-center/definitions/what-is-cyber-security
+https://www.gob.mx/sipinna/es/articulos/ciberseguridad-para-ninas-ninos-y-adolescentes-en-el-ecosistema-digital?idiom=es
+https://dle.rae.es/privacidad
+https://d1wqtxts1xzle7.cloudfront.net/36622552/Robo_de_identidad_1_-with-cover-page-v2.pdf?Expires=1636574487&Signature=HKE8hbTeLab4Xs-iYc9UpGi7HhbQe1j~9HBRKZoAewkL~iWYu2tjyqtaCE7G6~eo9U~rqvEBmoRd5NOKvNuVVtyc49TaMZk3b93g8Zf~mc~6EWR9ZjQLHbvrk54fCqCEdZ3Vy9XPQLBK6TohHSupJtXWOq-lVXrggkOn-JPNahJEOvZitOj89N~YgckOqAvBiAEang6LoqmaMSxO~krEdpdoYRXtLqRTDJP~QnRWyf7Kvz7tGi7dIuM86a3--pqzg5HCeGyxWIOh8qGPkpnDFsmI1H8m-9ficbto0g8NYDssRxyOQjJK3aHr3VVZ~sePrucGRR~0ONHwOvb31gUbJQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+https://www.forbes.com.mx/el-robo-de-identidad-digital-en-mexico/
+https://www.forbes.com.mx/como-funcionan-los-pagos-en-linea/#:~:text=Con%20plataformas%20de%20pago%20online,pueden%20consultar%20en%20cualquier%20momento.
+https://www.unicef.org/mexico/ciberseguridad
 https://socialtic.org/category/seguridad-digital/
-https://protege.la/
-https://haveibeenpwned.com/
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf
+https://www.ciset.es/glosario/490-tienda-online?dt=1636570474169 
+https://protege.la/ataques/ 
+https://www.usmp.edu.pe/publicaciones/boletin/fia/info69/sociales.pdf 
+https://www.oberlo.com.mx/blog/estadisticas-redes-sociales
+https://www.welivesecurity.com/la-es/2018/03/21/redes-sociales-valor-informacion-responsabilidad-usuarios/
 
-- ¿Preguntas específicas?
-- Compras en línea
-- Casos particulares (Whatsapp, Instagram, etc)
-- Aplicaciones de monitoreo y seguridad
+Otros recursos:
+https://haveibeenpwned.com/
+https://protege.la/
